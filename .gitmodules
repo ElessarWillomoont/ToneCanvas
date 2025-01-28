@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ElessarWillomoont/Tone_Canvas_Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ElessarWillomoont/Tone_Canvas_Backend.git
