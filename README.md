@@ -37,7 +37,7 @@ This project consists of two primary repositories:
 ### Getting Started
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/your-username/frontend-repo.git
+   git clone https://github.com/ElessarWillomoont/Tone_Canvas_Frontend.git
    cd frontend-repo
    ```
 2. Run the development server:
@@ -49,7 +49,6 @@ This project consists of two primary repositories:
 3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ### Key Features
-- Optimized font loading with [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts).
 - Hot-reloading for seamless development.
 
 ### Deployment
@@ -75,7 +74,7 @@ Deploy the frontend easily using the [Vercel Platform](https://vercel.com).
 ### Getting Started
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/your-username/backend-repo.git
+   git clone https://github.com/ElessarWillomoont/Tone_Canvas_Backend.git
    cd backend-repo
    ```
 2. Install dependencies:
